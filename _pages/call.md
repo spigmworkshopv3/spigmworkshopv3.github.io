@@ -39,4 +39,4 @@ To submit your work, please visit the **[OpenReview submission website](https://
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [frontiers4lcd@gmail.com](mailto:Frontiers4LCD@gmail.com).
+If you have any questions, please do not hesitate to contact us at [spigmworkshop2024@gmail.com](mailto:spigmworkshop2024@gmail.com).

@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: Workshopsss at the International Conference on Machine Learning (ICML) 2023
+subtitle:
 
 profile:
   align: right
