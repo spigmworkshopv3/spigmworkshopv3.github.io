@@ -115,7 +115,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Ricky T.Q. Chen<i> (FAIR, Meta)</i></td>
+    Ricky T. Q. Chen<i> (FAIR, Meta)</i></td>
   </tr>
   <tr>
     <td></td>
