@@ -30,7 +30,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Ben Poole<i>(Google DeepMind)</i></td>
+    Ben Poole<i> (Google DeepMind)</i></td>
   </tr>
   <tr>
     <td></td>
@@ -44,7 +44,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Yingzhen Li<i>(Imperial College London)</i></td>
+    Yingzhen Li<i> (Imperial College London)</i></td>
   </tr>
   <tr>
     <td></td>
@@ -67,7 +67,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Molei Tao<i>(Georgia Tech)</i></td>
+    Molei Tao<i> (Georgia Tech)</i></td>
   </tr>
   <tr>
     <td></td>
@@ -101,7 +101,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Charlotte Bunne<i>(Genentech &amp; EPFL)</i></td>
+    Charlotte Bunne<i> (Genentech &amp; EPFL)</i></td>
   </tr>
   <tr>
     <td></td>
@@ -115,7 +115,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Mark Chen<i>(OpenAI)</i></td>
+    Ricky T.Q. Chen<i> (FAIR, Meta)</i></td>
   </tr>
   <tr>
     <td></td>
@@ -145,7 +145,8 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Yee Whye Teh<i>(University of Oxford &amp; Google DeepMind)</i></td>
+    TBD</td>
+    <!-- Yee Whye Teh<i> (University of Oxford &amp; Google DeepMind)</i></td> -->
   </tr>
   <tr>
     <td></td>
