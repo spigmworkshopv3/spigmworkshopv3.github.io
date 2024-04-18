@@ -20,11 +20,13 @@ We invite submissions related (but not limited) to the following topics:
 * Applications and practical implementations of existing methods to areas in science
 * Empirical analysis comparing different architectures for a given data modality and application
 
-## Important Dates
+## Important Dates (Anywhere on Earth)
 
-*   Submission Deadline: `May 29, 2024 at 23:59 AoE`
-*   Acceptance Notification: `June 19, 2024`
-*   Camera-Ready Deadline for Accepted Submissions: `TBD`
+*   Submission Deadline: `May 25, 2024`
+*   Review Bidding Period: `May 25-27, 2024`
+*   Reviewer Deadline: `June 13, 2024`
+*   Acceptance Notification: `June 16, 2024`
+*   Workshop Date: `July 26, 2024 (tentative)`
 
 ## Submission Details
 

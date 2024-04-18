@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2024 at the Messe Wien Exhibition Congress Center, Vienna, Austria on July 28th 2024 (tentative). The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone (GMT+1) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at ICML 2024 at the Messe Wien Exhibition Congress Center, Vienna, Austria on July 26th 2024 (tentative). The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone (GMT+1) can be found below. <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
 ---
