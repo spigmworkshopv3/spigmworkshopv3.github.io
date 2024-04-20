@@ -34,7 +34,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 
 
 
-*   **Formatting Instructions**: We solicit *4-page* workshop papers (with unlimited references and appendix) following our **[LaTeX template](TODO)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Formatting Instructions**: We solicit *4-page* workshop papers (with unlimited references and appendix) following our **[LaTeX template](https://www.overleaf.com/read/ybgbzctsxqwj#61abdc)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
 To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
