@@ -88,11 +88,11 @@ nav_order: 2
     <td>13:00 - 13:50</td>
     <td>Panel Session</td>
     <td>
-      Kirill Neklyudov <i>(Univrsity of Montreal &amp; Mila)</i> <br>
+      Kirill Neklyudov <i>(University of Montreal &amp; Mila)</i> <br>
       Rianne van den Berg <i>(Microsoft Research)</i> <br>
       José Miguel Hernández-Lobato <i>(University of Cambridge)</i> <br>
       Kyle Cranmer <i>(University of Wisconsin-Madison)</i> <br>
-      Max Welling <i>(UvA &amp; Microsoft Research)</i> <br>
+      Max Welling <i>(University of Amsterdam)</i> <br>
     </td>
   </tr>
 
