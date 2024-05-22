@@ -22,8 +22,8 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth)
 
-*   Submission Deadline: `May 25, 2024`
-*   Review Bidding Period: `May 25-27, 2024`
+*   Submission Deadline: <s><code class="language-plaintext highlighter-rouge">May 25</code></s> `May 27, 2024` (Extended for 2 days. This's the hard deadline for all submissions.)
+*   Review Bidding Period: `May 27-29, 2024`
 *   Reviewer Deadline: `June 13, 2024`
 *   Acceptance Notification: `June 16, 2024`
 *   Workshop Date: `July 26, 2024 (tentative)`
