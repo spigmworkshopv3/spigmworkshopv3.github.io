@@ -26,6 +26,7 @@ We invite submissions related (but not limited) to the following topics:
 *   Review Bidding Period: `May 27-29, 2024`
 *   Reviewer Deadline: `June 13, 2024`
 *   Acceptance Notification: `June 16, 2024`
+*   Camera Ready Deadline: `July 19, 2024`
 *   Workshop Date: `July 26, 2024`
 
 ## Submission Details
