@@ -2,7 +2,8 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2024 at the Messe Wien Exhibition Congress Center, Vienna, Austria on July 26th 2024. The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone (GMT+1) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at ICML 2024 at the Messe Wien Exhibition Congress Center, Vienna, Austria on July 26th 2024. The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone, Central European Time (CET), can be found below.
+# <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
 ---
@@ -12,11 +13,9 @@ nav_order: 2
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-        <th style="border-top-left-radius: 10px; width: 15%">Hawaii Time</th>
-        <!-- <th>Virtual link</th> -->
-        <th style="width: 15%">Type</th>
-        <th style="width: 70% border-top-right-radius: 10px;">Title & Speakers</th>
-        <!-- <th style="width: 25% border-top-right-radius: 10px;">Speakers (Affiliations)</th> -->
+        <th style="border-top-left-radius: 10px; width: 20%">Vienna Time (CET)</th>
+        <th style="width: 18%">Type</th>
+        <th style="width: 62% border-top-right-radius: 10px;">Title & Speakers</th>
       </tr>
       <tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -25,67 +24,68 @@ nav_order: 2
         <td></td>
         <td>Opening Remarks</td>
   </tr>
-  <tr class="header" style="cursor: pointer">
-    <td>9:10 - 9:50</td>
+  <!-- <tr class="header" style="cursor: pointer"> TODO -->
+  <tr class="header">
+    <td>9:10 - 9:40</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <!-- <b> Update Talk Title TODO </b><br> -->
     Ben Poole<i> (Google DeepMind)</i></td>
   </tr>
-  <tr>
+  <!-- <tr> TODO
     <td></td>
     <td></td>
     <td>
-      TBD</td>
-  </tr>
+      Update Talk Abstract</td>
+  </tr> -->
 
-  <tr class="header" style="cursor: pointer">
-    <td>9:50 - 10:30</td>
+  <tr class="header">
+    <td>9:40 - 10:10</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
     Yingzhen Li<i> (Imperial College London)</i></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD</td>
-  </tr>
+  </tr> -->
 
   <tr class="header">
-    <td>10:30 - 11:00</td>
-    <td>Contributed Talk</td>
+    <td>10:10 - 11:00</td>
+    <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
       <!-- <br>Author TBD<i>(TBD)</i>, ... -->
     </td>
   </tr>
 
-  <tr class="header" style="cursor: pointer">
-    <td>11:00 - 11:40</td>
+  <tr class="header">
+    <td>11:00 - 11:30</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
     Molei Tao<i> (Georgia Tech)</i></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD</td>
-  </tr>
+  </tr> -->
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>11:40 - 13:00</td>
+        <td>11:30 - 13:10</td>
         <td></td>
-        <td>Poster Session &amp; Lunch</td>
+        <td>Poster Session #1 &amp; Lunch Break</td>
   </tr>
 
 
   <tr class="header">
-    <td>13:00 - 13:50</td>
+    <td>13:10 - 14:00</td>
     <td>Panel Session</td>
     <td>
       Kirill Neklyudov <i>(University of Montreal &amp; Mila)</i> <br>
@@ -96,37 +96,36 @@ nav_order: 2
     </td>
   </tr>
 
-  <tr class="header" style="cursor: pointer">
-    <td>13:50 - 14:30</td>
-    <td>Invited Talk</td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-    Charlotte Bunne<i> (Genentech &amp; EPFL)</i></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr>
-
-  <tr class="header" style="cursor: pointer">
-    <td>14:30 - 15:10</td>
+  <tr class="header">
+    <td>14:00 - 14:30</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
     Ricky T. Q. Chen<i> (FAIR, Meta)</i></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD</td>
+  </tr> -->
+  <tr class="header">
+    <td>14:30 - 14:50</td>
+    <td>Invited Talk</td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+    Maruan Al-Shedivat<i> (Genesis Therapeutics)</i></td>
   </tr>
+  <!-- <tr>
+    <td></td>
+    <td></td>
+    <td>
+      TBD</td>
+  </tr> -->
 
   <tr class="header">
-    <td>15:10 - 15:40</td>
-    <td>Contributed Talk</td>
+    <td>14:50 - 15:10</td>
+    <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
       <!-- <br>Author TBD<i>(TBD)</i>, ... -->
@@ -135,29 +134,29 @@ nav_order: 2
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>15:40 - 16:20</td>
+        <td>15:10 - 16:10</td>
         <td></td>
-        <td>Coffee Break &amp; Poster Session</td>
+        <td>Poster Session #2 &amp; Coffee Break </td>
   </tr>
 
-  <tr class="header" style="cursor: pointer">
-    <td>16:20 - 17:00</td>
+
+  <tr class="header">
+    <td>16:10 - 16:40</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBD</td>
-    <!-- Yee Whye Teh<i> (University of Oxford &amp; Google DeepMind)</i></td> -->
+    Charlotte Bunne<i> (Genentech &amp; EPFL)</i></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td></td>
     <td></td>
     <td>
       TBD</td>
-  </tr>
+  </tr> -->
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>17:00 - 17:15</td>
+        <td>16:40 - 17:00</td>
         <td></td>
         <td>Awards, Takeaways, &amp; Closing Remarks</td>
   </tr>
