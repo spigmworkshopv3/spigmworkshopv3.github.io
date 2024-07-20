@@ -92,7 +92,6 @@ nav_order: 2
       Rianne van den Berg <i>(Microsoft Research)</i> <br>
       José Miguel Hernández-Lobato <i>(University of Cambridge)</i> <br>
       Kyle Cranmer <i>(University of Wisconsin-Madison)</i> <br>
-      Max Welling <i>(University of Amsterdam)</i> <br>
     </td>
   </tr>
 
