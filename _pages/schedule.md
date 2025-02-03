@@ -30,7 +30,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Update Talk Title TODO </b><br> -->
-    Ben Poole<i> (Google DeepMind)</i></td>
+    Arash Vahdat <i>  </i></td>
   </tr>
   <!-- <tr> TODO
     <td></td>
@@ -44,7 +44,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Yingzhen Li<i> (Imperial College London)</i></td>
+    Qiang Liu <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -67,7 +67,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Molei Tao<i> (Georgia Tech)</i></td>
+    Eric Vanden-Eijnden <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -84,7 +84,7 @@ nav_order: 2
   </tr>
 
 
-  <tr class="header">
+  <!-- <tr class="header">
     <td>13:10 - 14:00</td>
     <td>Panel Session</td>
     <td>
@@ -93,14 +93,14 @@ nav_order: 2
       José Miguel Hernández-Lobato <i>(University of Cambridge)</i> <br>
       Kyle Cranmer <i>(University of Wisconsin-Madison)</i> <br>
     </td>
-  </tr>
+  </tr> -->
 
   <tr class="header">
     <td>14:00 - 14:30</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Ricky T. Q. Chen<i> (FAIR, Meta)</i></td>
+     Ruiqi Gao <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -113,7 +113,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Maruan Al-Shedivat<i> (Genesis Therapeutics)</i></td>
+    TBD <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -144,7 +144,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Charlotte Bunne<i> (Genentech &amp; EPFL)</i></td>
+     TBD <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
