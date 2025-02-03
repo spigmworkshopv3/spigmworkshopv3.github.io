@@ -20,7 +20,11 @@ We invite submissions related (but not limited) to the following topics:
 * Applications and practical implementations of existing methods to areas in science
 * Empirical analysis comparing different architectures for a given data modality and application
 
+
 ## Important Dates (Anywhere on Earth)
+TBD 
+
+<!-- 
 
 *   Submission Deadline: <s><code class="language-plaintext highlighter-rouge">May 25</code></s> `May 27, 2024` [UPDATE (5/23): Extended for 2 days. This's the hard deadline for all submissions.]
 *   Review Bidding Period: `May 27-29, 2024`
@@ -34,8 +38,7 @@ We invite submissions related (but not limited) to the following topics:
 To ensure your submission is considered, please adhere to the following guidelines:
 
 
-
-*   **Formatting Instructions**: We solicit <s>4-page</s> **4-to-8-page [UPDATE (5/24): extended due to high volume of requests]** workshop papers (with unlimited references and appendix) following our **[LaTeX template](https://www.overleaf.com/read/ybgbzctsxqwj#61abdc)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following our **[LaTeX template](https://www.overleaf.com/read/ybgbzctsxqwj#61abdc)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
 To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
@@ -43,4 +46,4 @@ To submit your work, please visit the **[OpenReview](https://openreview.net/grou
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [spigmworkshop2024@gmail.com](mailto:spigmworkshop2024@gmail.com).
+If you have any questions, please do not hesitate to contact us at [spigmworkshop2024@gmail.com](mailto:spigmworkshop2024@gmail.com). -->
