@@ -30,7 +30,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Update Talk Title TODO </b><br> -->
-    Arash Vahdat <i>  </i></td>
+    Eric Vanden-Eijnden <i>  </i></td>
   </tr>
   <!-- <tr> TODO
     <td></td>
@@ -44,7 +44,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Qiang Liu <i>  </i></td>
+    Arash Vahdat <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -67,7 +67,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Eric Vanden-Eijnden <i>  </i></td>
+   Ruiqi Gao <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -78,29 +78,25 @@ nav_order: 2
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>11:30 - 13:10</td>
+        <td>11:35 - 13:00</td>
         <td></td>
         <td>Poster Session #1 &amp; Lunch Break</td>
   </tr>
 
 
-  <!-- <tr class="header">
-    <td>13:10 - 14:00</td>
+  <tr class="header">
+    <td>13:00 - 13:50</td>
     <td>Panel Session</td>
     <td>
-      Kirill Neklyudov <i>(University of Montreal &amp; Mila)</i> <br>
-      Rianne van den Berg <i>(Microsoft Research)</i> <br>
-      José Miguel Hernández-Lobato <i>(University of Cambridge)</i> <br>
-      Kyle Cranmer <i>(University of Wisconsin-Madison)</i> <br>
     </td>
-  </tr> -->
+  </tr>
 
   <tr class="header">
-    <td>14:00 - 14:30</td>
+    <td>13:50 - 14:25</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-     Ruiqi Gao <i>  </i></td>
+    Chelsa Finn <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -109,11 +105,11 @@ nav_order: 2
       TBD</td>
   </tr> -->
   <tr class="header">
-    <td>14:30 - 14:50</td>
+    <td>14:25 - 15:00</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBD <i>  </i></td>
+    Andrew Gordon Wilson <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -123,7 +119,7 @@ nav_order: 2
   </tr> -->
 
   <tr class="header">
-    <td>14:50 - 15:10</td>
+    <td>15:00 - 15:30</td>
     <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
@@ -131,34 +127,38 @@ nav_order: 2
     </td>
   </tr>
 
-  <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
-        <td>15:10 - 16:10</td>
-        <td></td>
-        <td>Poster Session #2 &amp; Coffee Break </td>
+  <tr class="header">
+    <td>15:30 - 16:05</td>
+    <td>Invited Talk</td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+    Geoffrey Irving <i>  </i></td>
   </tr>
 
 
   <tr class="header">
-    <td>16:10 - 16:40</td>
+    <td>16:05 - 16:40</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-     TBD <i>  </i></td>
+    Rianne van den Berg <i>  </i></td>
   </tr>
-  <!-- <tr>
-    <td></td>
+
+  <tr class="header">
+    <td>16:40 - 16:50</td>
     <td></td>
     <td>
-      TBD</td>
-  </tr> -->
+    <!-- <b> Title TODO </b><br> -->
+    Awards, takeaways, and closing <i>  </i></td>
+  </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>16:40 - 17:00</td>
+        <td>16:50-18:00</td>
         <td></td>
-        <td>Awards, Takeaways, &amp; Closing Remarks</td>
+        <td>Poster Session #2 &amp; Social </td>
   </tr>
+
 
 
 <!-- </table> -->
