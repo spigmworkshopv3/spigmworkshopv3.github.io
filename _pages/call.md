@@ -23,8 +23,10 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth) 
 
-* Submission: August 22, 2025, AoE
-* Accept / Reject notification date: September 22, 2025, AoE
+* Submission: August 22, 2025
+* Review deadline: September 18, 2025
+* Accept / Reject notification date: September 22, 2025
+* Workshop data: December 6th / 7th, 2025
 
 <!-- 
 
