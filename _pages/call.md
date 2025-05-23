@@ -21,8 +21,10 @@ We invite submissions related (but not limited) to the following topics:
 * Empirical analysis comparing different architectures for a given data modality and application
 
 
-## Important Dates (Anywhere on Earth)
-TBD 
+## Important Dates (Anywhere on Earth) 
+
+* Submission: August 22, 2025, AoE
+* Accept / Reject notification date: September 22, 2025, AoE
 
 <!-- 
 
