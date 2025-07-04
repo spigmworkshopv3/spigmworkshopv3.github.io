@@ -132,7 +132,7 @@ nav_order: 2
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Geoffrey Irving <i>  </i></td>
+    TBA <i>  </i></td>
   </tr>
 
 
