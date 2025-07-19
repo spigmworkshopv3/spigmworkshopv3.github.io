@@ -9,6 +9,8 @@ nav_order: 3
 
 <br>
 
+Our openreview website for submission is [this](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/SPIGM).
+
 ## Topics
 
 We invite submissions related (but not limited) to the following topics:
