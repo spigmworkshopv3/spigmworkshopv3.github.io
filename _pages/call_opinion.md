@@ -19,10 +19,10 @@ Here are a few illustrative examples:
 - Gaps between theoretical advances and practical applications
 - Open questions that deserve more focus — or questions that may not need to be addressed 
 
-We are framing this as a friendly competition: three selected winners will each receive a amazon gift card prize! 
+We are framing this as a friendly competition: three selected winners will each receive a monetary amazon gift card prize! 
 <!-- (500GBP/200GBP/100GBP? ---need to comfirm) -->
 
-We encourage submissions of at least one page, clearly describing your key insights, concerns, or proposals for future directions. There is no hard page limit for this track, but we highly suggestion a compact and concise discussion. Submissions should be made through the following [Google Form link] (link to be inserted), and do not need to be anonymised.
+We encourage submissions of at least one page, clearly describing your key insights, concerns, or proposals for future directions. There is no hard page limit for this track, but we highly suggestion a compact and concise discussion. Submissions should be made through the following [Google Form link] (https://forms.gle/SMZNBJa8mwyd5fuAA), and do not need to be anonymised.
 
 <!-- 
 
