@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /submissions_opinion/
-title: Call for Opinions - We Want to Hear From You!
+title: Call for Opinions
 description:
 nav: true
 nav_order: 4
@@ -10,6 +10,7 @@ nav_order: 4
 <br>
 
 <!-- ## Call for Opinions –  -->
+## We Want to Hear From You!
 
 We invite submissions to our Call for Opinions track. What is the field of probabilistic inference and generative modelling getting right? What is it getting wrong? What emerging topics deserve greater attention — or perhaps less? Share your perspective with the community!
 
