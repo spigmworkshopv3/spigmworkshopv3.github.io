@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /submissions/
+permalink: /submissions_opinion/
 title: Call for Opinions
 description:
 nav: true
