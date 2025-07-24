@@ -12,6 +12,7 @@ nav_order: 3
 ## Openreview venue
 Our openreview website for submission is [this](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/SPIGM).
 
+
 ## Topics
 
 We invite submissions related (but not limited) to the following topics:
@@ -30,6 +31,11 @@ We invite submissions related (but not limited) to the following topics:
 * Review deadline: September 18, 2025
 * Accept / Reject notification date: September 22, 2025
 * Workshop data: December 6th / 7th, 2025
+
+## Details
+
+*   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following NeurIPS 2025 main conference paper template. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
 <!-- 
 
