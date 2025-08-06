@@ -36,7 +36,7 @@ We invite submissions related (but not limited) to the following topics:
 
 *   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following NeurIPS 2025 main conference paper template. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
-
+* **What can be sumitted**: Following the convention of most workshops, we welcome submissions of papers already published in journals or presented at non–machine-learning conferences or workshops. If a paper has appeared in a machine-learning venue—such as ICLR, NeurIPS, ICML, CVPR, AISTATS, or similar—we will consider it only if it includes substantial extensions or new results. We also recognize that, due to unforeseen circumstances (e.g., visa), some authors have published papers but did not have the opportunity to present them; accordingly, this year we make an exception to allow those papers to submit to our workshop as well.
 <!-- 
 
 *   Submission Deadline: <s><code class="language-plaintext highlighter-rouge">May 25</code></s> `May 27, 2024` [UPDATE (5/23): Extended for 2 days. This's the hard deadline for all submissions.]
