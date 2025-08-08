@@ -57,8 +57,6 @@ To ensure your submission is considered, please adhere to the following guidelin
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
 To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
-
-
 ## Questions
 
 If you have any questions, please do not hesitate to contact us at [spigmworkshop2024@gmail.com](mailto:spigmworkshop2024@gmail.com). -->
