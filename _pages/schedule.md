@@ -20,17 +20,23 @@ nav_order: 2
       <tr>
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>9:00 - 9:10</td>
+        <td>8:00 - 8:30</td>
+        <td></td>
+        <td>Coffee Break</td>
+  </tr>
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <!-- <tr> -->
+        <td>8:30 - 8:40</td>
         <td></td>
         <td>Opening Remarks</td>
   </tr>
   <!-- <tr class="header" style="cursor: pointer"> TODO -->
   <tr class="header">
-    <td>9:10 - 9:40</td>
+    <td>8:40 - 9:10</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Update Talk Title TODO </b><br> -->
-    Eric Vanden-Eijnden <i>  </i></td>
+    TBA <i>  </i></td>
   </tr>
   <!-- <tr> TODO
     <td></td>
@@ -40,11 +46,11 @@ nav_order: 2
   </tr> -->
 
   <tr class="header">
-    <td>9:40 - 10:10</td>
+    <td>9:10 - 9:40</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Arash Vahdat <i>  </i></td>
+    TBA <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -54,7 +60,22 @@ nav_order: 2
   </tr> -->
 
   <tr class="header">
-    <td>10:10 - 11:00</td>
+    <td>9:40 - 10:10</td>
+    <td>Invited Talk</td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+    Andrew Gordon Wilson <i>  </i></td>
+  </tr>
+
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <!-- <tr> -->
+        <td>10:10 - 10:30</td>
+        <td></td>
+        <td>Coffee Break</td>
+  </tr>
+
+  <tr class="header">
+    <td>10:30 - 10:40</td>
     <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
@@ -63,11 +84,56 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>11:00 - 11:30</td>
+    <td>10:40 - 10:50</td>
+    <td>Contributed Talks</td>
+    <td>
+      <!-- <b> Title TODO </b><br> -->
+      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+    </td>
+  </tr>
+
+  <tr class="header">
+    <td>10:50 - 11:00</td>
+    <td>Contributed Talks</td>
+    <td>
+      <!-- <b> Title TODO </b><br> -->
+      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+    </td>
+  </tr>
+
+  <tr class="header" style="background-color:rgb(240, 240, 240);">
+      <!-- <tr> -->
+        <td>11:00 - 12:30</td>
+        <td></td>
+        <td>Poster Session #1 &amp; Lunch Break</td>
+  </tr>
+
+  <tr class="header">
+    <td>12:30 - 13:30</td>
+    <td>Panel Session: Is probabilistic inference still relevant in the era of foundation models?</td>
+    <td>
+    </td>
+  </tr>
+
+  <tr class="header">
+    <td>13:30 - 14:00</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-   Ruiqi Gao <i>  </i></td>
+    TBA <i>  </i></td>
+  </tr>
+  <!-- <tr>
+    <td></td>
+    <td></td>
+    <td>
+      TBD</td>
+  </tr> -->
+  <tr class="header">
+    <td>14:00 - 14:30</td>
+    <td>Invited Talk</td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+    TBA <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -78,48 +144,21 @@ nav_order: 2
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>11:35 - 13:00</td>
+        <td>14:30 - 14:40</td>
         <td></td>
-        <td>Poster Session #1 &amp; Lunch Break</td>
-  </tr>
-
-
-  <tr class="header">
-    <td>13:00 - 13:50</td>
-    <td>Panel Session</td>
-    <td>
-    </td>
+        <td>Coffee Break</td>
   </tr>
 
   <tr class="header">
-    <td>13:50 - 14:25</td>
+    <td>14:40 - 15:10</td>
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Chelsa Finn <i>  </i></td>
+    TBA <i>  </i></td>
   </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr> -->
-  <tr class="header">
-    <td>14:25 - 15:00</td>
-    <td>Invited Talk</td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-    Andrew Gordon Wilson <i>  </i></td>
-  </tr>
-  <!-- <tr>
-    <td></td>
-    <td></td>
-    <td>
-      TBD</td>
-  </tr> -->
 
   <tr class="header">
-    <td>15:00 - 15:30</td>
+    <td>15:10 - 15:20</td>
     <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
@@ -128,24 +167,25 @@ nav_order: 2
   </tr>
 
   <tr class="header">
-    <td>15:30 - 16:05</td>
-    <td>Invited Talk</td>
+    <td>15:20 - 15:30</td>
+    <td>Contributed Talks</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
-    TBA <i>  </i></td>
-  </tr>
-
-
-  <tr class="header">
-    <td>16:05 - 16:40</td>
-    <td>Invited Talk</td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-    Rianne van den Berg <i>  </i></td>
+      <!-- <b> Title TODO </b><br> -->
+      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+    </td>
   </tr>
 
   <tr class="header">
-    <td>16:40 - 16:50</td>
+    <td>15:30 - 15:40</td>
+    <td>Contributed Talks</td>
+    <td>
+      <!-- <b> Title TODO </b><br> -->
+      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+    </td>
+  </tr>
+
+  <tr class="header">
+    <td>15:40 - 15:45</td>
     <td></td>
     <td>
     <!-- <b> Title TODO </b><br> -->
@@ -154,7 +194,7 @@ nav_order: 2
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>16:50-18:00</td>
+        <td>15:45 - 17:00</td>
         <td></td>
         <td>Poster Session #2 &amp; Social </td>
   </tr>
