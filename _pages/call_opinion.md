@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /submissions_opinion/
+permalink: /submissions_opinion_old/
 title: Call for Opinions
 description:
-nav: true
+nav: false
 nav_order: 4
 ---
 
@@ -25,26 +25,3 @@ We are framing this as a friendly competition: three selected winners will each 
 
 We encourage submissions of at least one page, clearly describing your key insights, concerns, or proposals for future directions. There is no hard page limit for this track, but we highly suggestion a compact and concise discussion. Submissions should be made through the following [Google Form link](https://forms.gle/SMZNBJa8mwyd5fuAA), and do not need to be anonymised.
 
-<!-- 
-
-*   Submission Deadline: <s><code class="language-plaintext highlighter-rouge">May 25</code></s> `May 27, 2024` [UPDATE (5/23): Extended for 2 days. This's the hard deadline for all submissions.]
-*   Review Bidding Period: `May 27-29, 2024`
-*   Reviewer Deadline: `June 13, 2024`
-*   Acceptance Notification: `June 16, 2024`
-*   Camera Ready Deadline: `July 19, 2024`
-*   Workshop Date: `July 26, 2024`
-
-## Submission Details
-
-To ensure your submission is considered, please adhere to the following guidelines:
-
-
-*   **Formatting Instructions**: We solicit 4-to-8-page workshop papers (with unlimited references and appendix) following our **[LaTeX template](https://www.overleaf.com/read/ybgbzctsxqwj#61abdc)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
-*   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
-
-To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
-
-
-## Questions
-
-If you have any questions, please do not hesitate to contact us at [spigmworkshop2024@gmail.com](mailto:spigmworkshop2024@gmail.com). -->
