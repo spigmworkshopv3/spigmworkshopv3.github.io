@@ -2,8 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at NeurIPS 2025 at the Room 20C of San Diego Convention Center, USA, on Saturday Dec 6th. 
-The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
+description: This workshop will be held in-person at NeurIPS 2025 at the Room 20C of San Diego Convention Center, USA, on Saturday Dec 6th.  The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone can be found below.
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 3
