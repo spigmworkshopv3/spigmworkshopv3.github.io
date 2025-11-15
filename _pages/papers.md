@@ -8,9 +8,9 @@ nav: true
 nav_order: 5
 ---
 
-## Accepted Papers
+<!-- ## Accepted Papers -->
 
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -21,7 +21,7 @@ nav_order: 5
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
+</style> -->
 <table class="tg"><thead>
   <tr>
     <th class="tg-amwm">title</th>
