@@ -84,35 +84,38 @@ nav_order: 3
   </tr>
 
   <tr class="header">
-    <td>10:30 - 10:40</td>
+    <td>11:00 - 11:10</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <br>Gabe Guo<i></i>, Any-Subset Autoregressive Models and Speculative Decoding
+      <b> Any-Subset Autoregressive Models and Speculative Decoding </b><br>
+      <br>Gabe Guo<i></i>
     </td>
   </tr>
 
   <tr class="header">
-    <td>10:40 - 10:50</td>
+    <td>11:10 - 11:20</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <b> Ambient Diffusion Omni </b><br>
+      <br>Giannis Daras<i></i>
     </td>
   </tr>
 
+
   <tr class="header">
-    <td>10:50 - 11:00</td>
+    <td>11:20 - 11:30</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <b> Learning Boltzmann Generators via Constrained Mass Transport </b><br>
+      <br> Denis Blessing <i></i>
     </td>
   </tr>
+
+
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
-        <td>11:00 - 12:30</td>
+        <td>11:30 - 12:30</td>
         <td></td>
         <td>Poster Session #1 &amp; Lunch Break</td>
   </tr>
@@ -129,7 +132,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBA <i>  </i></td>
+    Arash Vahdat <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -142,7 +145,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBA <i>  </i></td>
+   Ruiqi Gao <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -170,17 +173,18 @@ nav_order: 3
     <td>15:10 - 15:20</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <b> Inference-time scaling of diffusion models through classical search </b><br>
+      <br>Xiangcheng Zhang<i></i>
     </td>
   </tr>
+
 
   <tr class="header">
     <td>15:20 - 15:30</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <b> Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization </b><br>
+      <br>Kiyoung Om<i></i>
     </td>
   </tr>
 
@@ -188,8 +192,8 @@ nav_order: 3
     <td>15:30 - 15:40</td>
     <td>Contributed Talks</td>
     <td>
-      <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <b> When rule learning breaks: Diffusion Fails to Learn Parity of Many Bits</b><br>
+      <br>Binxu Wang<i></i>
     </td>
   </tr>
 
