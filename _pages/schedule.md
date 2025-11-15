@@ -47,10 +47,10 @@ nav_order: 3
 
   <tr class="header">
     <td>9:10 - 9:40</td>
-    <td>Sponser Talk</td>
+    <td></td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBA <i>  </i></td>
+    Chelsea Finn <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
@@ -61,10 +61,10 @@ nav_order: 3
 
   <tr class="header">
     <td>9:40 - 10:10</td>
-    <td>Invited Talk</td>
+    <td> Sponser Talk </td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Chelsea Finn <i>  </i></td>
+     <i> Sponsers </i></td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -166,7 +166,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    TBA <i>  </i></td>
+    Rianne van den Berg <i>  </i></td>
   </tr>
 
   <tr class="header">
