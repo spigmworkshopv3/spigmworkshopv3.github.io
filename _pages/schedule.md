@@ -36,7 +36,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Update Talk Title TODO </b><br> -->
-    TBA <i>  </i></td>
+    Jiaxin Shi <i>  </i></td>
   </tr>
   <!-- <tr> TODO
     <td></td>
@@ -47,7 +47,7 @@ nav_order: 3
 
   <tr class="header">
     <td>9:10 - 9:40</td>
-    <td>Invited Talk</td>
+    <td>Sponser Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
     TBA <i>  </i></td>
@@ -64,7 +64,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Andrew Gordon Wilson <i>  </i></td>
+    Chelsea Finn <i>  </i></td>
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
@@ -74,12 +74,21 @@ nav_order: 3
         <td>Coffee Break</td>
   </tr>
 
+  
+  <tr class="header">
+    <td>10:30 - 11:00</td>
+    <td>Invited Talk</td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+    Andrew Gordon Wilson <i>  </i></td>
+  </tr>
+
   <tr class="header">
     <td>10:30 - 10:40</td>
     <td>Contributed Talks</td>
     <td>
       <!-- <b> Title TODO </b><br> -->
-      <!-- <br>Author TBD<i>(TBD)</i>, ... -->
+      <br>Gabe Guo<i></i>, Any-Subset Autoregressive Models and Speculative Decoding
     </td>
   </tr>
 
