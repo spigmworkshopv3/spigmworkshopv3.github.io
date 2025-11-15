@@ -17,7 +17,7 @@ nav_order: 5
 | CoVAE: Consistency Training of   Variational Autoencoders | Accept | Poster Section 1 |
 | Shaping Inductive Bias in Diffusion   Models through Frequency-Based Noise Control | Accept | Poster Section 1 |
 | Inference-time Scaling of Diffusion   Models through Classical Search | Accept (Oral) | Poster Section 1 |
-| SLayR: Scene Layout Generation with   Rectified Flow | Accept | Poster Section 1 |
+<!-- | SLayR: Scene Layout Generation with   Rectified Flow | Accept | Poster Section 1 |
 | Rethinking Direct Preference Optimization   in Diffusion Models | Accept | Poster Section 1 |
 | Insertion Language Models: Sequence   Generation with Arbitrary-Position Insertions | Accept | Poster Section 1 |
 | Probabilistic Soundness Guarantees in LLM   Reasoning Chains | Accept | Poster Section 1 |
@@ -124,4 +124,4 @@ nav_order: 5
 | Entangled Schrödinger Bridge Matching | Accept | Poster Section 2 |
 | Entropy Is Not Enough: Uncertainty   Quantification for LLMs fails under Aleatoric Uncertainty | Accept | Poster Section 2 |
 | ScooBDoob: Schrödinger Bridge with Doob’s   h-Transform for Molecular Dynamics | Accept | Poster Section 2 |
-| Diffusion Beats Autoregressive in   Data-Constrained Settings | Accept | Poster Section 2 |
+| Diffusion Beats Autoregressive in   Data-Constrained Settings | Accept | Poster Section 2 | -->
