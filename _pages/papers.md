@@ -7,6 +7,7 @@ description:
 nav: true
 nav_order: 5
 ---
+
 | title | decision | Poster Section |
 |:---:|:---:|:---:|
 | Self-Speculative Decoding in Any-Order   and Any-Subset Autoregressive Models | Accept (Oral) | Poster Section 1 |
