@@ -13,7 +13,7 @@ nav_order: 3
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
-        <th style="border-top-left-radius: 10px; width: 20%">Vienna Time (CET)</th>
+        <th style="border-top-left-radius: 10px; width: 20%">San Diego Time (PST)</th>
         <th style="width: 18%">Type</th>
         <th style="width: 62% border-top-right-radius: 10px;">Title & Speakers</th>
       </tr>
