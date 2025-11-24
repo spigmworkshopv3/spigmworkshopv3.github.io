@@ -47,7 +47,7 @@ nav_order: 3
 
   <tr class="header">
     <td>9:10 - 9:40</td>
-    <td></td>
+    <td>	Invited Talk </td>
     <td>
     <!-- <b> Title TODO </b><br> -->
     Chelsea Finn <i>  </i></td>
