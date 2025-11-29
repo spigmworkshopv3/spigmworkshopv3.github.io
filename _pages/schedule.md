@@ -50,7 +50,7 @@ nav_order: 3
     <td>	Invited Talk </td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Chelsea Finn <i>  </i></td>
+    Chelsea Finn, Yoonho Lee <i>  </i></td>
   </tr>
   <!-- <tr>
     <td></td>
