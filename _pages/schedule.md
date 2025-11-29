@@ -129,8 +129,9 @@ nav_order: 3
 
   <tr class="header">
     <td>12:30 - 13:30</td>
-    <td>Panel Session: Is probabilistic inference still relevant in the era of foundation models?</td>
-    <td>
+    <td>Panel Session</td>
+    <td> <b>Is probabilistic inference still relevant in the era of foundation models?</b><br>
+    <br> Valentin De Bortoli, Carles Domingo-enrich, Xiang Lisa Li, Luhuan Wu <i></i>
     </td>
   </tr>
 
