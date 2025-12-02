@@ -174,7 +174,7 @@ nav_order: 3
     <td>Invited Talk</td>
     <td>
     <!-- <b> Title TODO </b><br> -->
-    Rianne van den Berg <i>  </i></td>
+    Giulia Luise <i>  </i></td>
   </tr>
 
   <tr class="header">
