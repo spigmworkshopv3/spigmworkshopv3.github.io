@@ -46,7 +46,21 @@ nav_order: 3
   </tr> -->
 
   <tr class="header">
-    <td>9:10 - 9:40</td>
+    <td>9:10 - 9:25</td>
+    <td> Sponser Talk </td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+     <i> Basis Research Institute </i></td>
+  </tr>
+ <tr class="header">
+    <td>9:25 - 9:40</td>
+    <td> Sponser Talk </td>
+    <td>
+    <!-- <b> Title TODO </b><br> -->
+     <i> Genesis Molecular AI </i></td>
+  </tr>
+  <tr class="header">
+    <td>9:40 - 10:10</td>
     <td>	Invited Talk </td>
     <td>
     <!-- <b> Title TODO </b><br> -->
@@ -59,20 +73,6 @@ nav_order: 3
       TBD</td>
   </tr> -->
 
-  <tr class="header">
-    <td>9:40 - 9:55</td>
-    <td> Sponser Talk </td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-     <i> Basis Research Institute </i></td>
-  </tr>
- <tr class="header">
-    <td>9:55 - 10:10</td>
-    <td> Sponser Talk </td>
-    <td>
-    <!-- <b> Title TODO </b><br> -->
-     <i> Genesis Molecular AI </i></td>
-  </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
       <!-- <tr> -->
