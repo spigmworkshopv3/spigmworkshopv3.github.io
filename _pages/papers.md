@@ -10,6 +10,8 @@ nav_order: 5
 
 Below is the list of accepted papers:
 
+List also available at OpenReview: [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/SPIGM#tab-accept](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/SPIGM#tab-accept)
+
 | title | decision | Poster Section |
 |:---:|:---:|:---:|
 | Self-Speculative Decoding in Any-Order   and Any-Subset Autoregressive Models | Accept (Oral) | Poster Section 1 |
