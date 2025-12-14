@@ -35,7 +35,7 @@ nav_order: 3
     <td>8:40 - 9:10</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Update Talk Title TODO </b><br> -->
+    <b> Demystifying Diffusion Objectives: Reweighted Losses are Better Variational Bounds </b><br>
     Jiaxin Shi <i>  </i></td>
   </tr>
   <!-- <tr> TODO
@@ -63,7 +63,7 @@ nav_order: 3
     <td>9:40 - 10:10</td>
     <td>	Invited Talk </td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <b> Iterative Improvement for Large-Scale Generative Models </b><br>
     Chelsea Finn, Yoonho Lee <i>  </i></td>
   </tr>
   <!-- <tr>
@@ -86,7 +86,7 @@ nav_order: 3
     <td>10:30 - 11:00</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <b> Probabilistic Inference is the Future of Foundation Models </b><br>
     Andrew Gordon Wilson <i>  </i></td>
   </tr>
 
@@ -139,7 +139,7 @@ nav_order: 3
     <td>13:30 - 14:00</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <b> When Scaling Laws Fail: Test-time Scaling in Generative AI for Science </b><br>
     Arash Vahdat <i>  </i></td>
   </tr>
   <!-- <tr>
@@ -152,7 +152,7 @@ nav_order: 3
     <td>14:00 - 14:30</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <b> Video diffusion models as world models </b><br>
    Ruiqi Gao <i>  </i></td>
   </tr>
   <!-- <tr>
@@ -173,7 +173,7 @@ nav_order: 3
     <td>14:40 - 15:10</td>
     <td>Invited Talk</td>
     <td>
-    <!-- <b> Title TODO </b><br> -->
+    <b> Skala: Advancing the Accuracy of Computational Chemistry with Deep Learning </b><br>
     Giulia Luise <i>  </i></td>
   </tr>
 
